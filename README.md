@@ -1,5 +1,7 @@
 # Bike Rental trends
 
+bike_rentals/assets/bike_rentals.JPG
+
 The goal of this project is to create an algorithm to predict the number of bikes needed on a given day. In order to achieve it, a Neural Network is created. 
 
 ## Table of Contents 
