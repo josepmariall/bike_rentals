@@ -6,7 +6,8 @@ The goal of this project is to create an algorithm to predict the number of bike
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
-1. Data Preparation and model creation
+[1. Data Preparation and model creation
+(https://github.com/titoniubo/bike_rentals/blob/master/1.%20Data%20preparation%20and%20Model%20Creation.ipynb)
 2. Data Visualizations
 
 
